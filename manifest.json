@@ -1,0 +1,22 @@
+{
+  "name": "학원 주간 시간표 관리 시스템",
+  "short_name": "학원 시간표",
+  "description": "MacBook & iOS 실시간 공유 학원 주간 시간표 및 출결·셔틀버스 관리 앱",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#c62917",
+  "icons": [
+    {
+      "src": "./app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./calendar-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
